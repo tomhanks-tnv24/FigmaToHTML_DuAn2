@@ -410,7 +410,7 @@ a {
     margin-top: 18px;
 }
 
-.row-top {
+.course .row-top {
     margin-top: 19px;
     display: flex;
     justify-content: space-between;
@@ -521,9 +521,8 @@ a {
 /* countdown */
 .countdown {
     display: flex;
-    width: 862px;
-    height: 131px;
-    margin-top: 265px;
+    width: 100%;
+    margin-top: 200px;
 }
 
 .countdown .body {
@@ -534,9 +533,7 @@ a {
 
 .countdown-list {
     display: flex;
-    width: 862px;
     justify-content: space-between;
-    margin-left: 289px;
 }
 
 
